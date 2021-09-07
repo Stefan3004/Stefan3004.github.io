@@ -20,3 +20,19 @@ nav a {
     color: white;
     text-decoration: none;
 }
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding: 0.5rem;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
